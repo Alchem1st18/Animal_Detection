@@ -1,0 +1,1 @@
+This is an Animal detection model which has been trained specifically for ALPACAS using the YOLOV8 model. It has been trained with over 1200 images, all collected and annotated as well. The same process can be applied to extend this model to detect other animals as well and could be used for multiple real life application in wildlife parks, sanctuaries etc.
