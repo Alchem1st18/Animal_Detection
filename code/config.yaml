@@ -1,0 +1,8 @@
+
+path: C:/Users/Srikar/PycharmProjects/object_detection/data
+
+train: images/train
+val: images/validation
+
+names:
+  0:  alpaca
